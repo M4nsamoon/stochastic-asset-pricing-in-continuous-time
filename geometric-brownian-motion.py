@@ -18,9 +18,9 @@ import matplotlib.pyplot as plt
 # pred_end_date :   date until which you want to predict price
 # scen_size     :   different possible scenarios
 stock_name = 'AAPL'
-start_date = '2010-01-01'
-end_date = '2020-10-31'
-pred_end_date = '2020-12-31'
+start_date = '2012-01-01'
+end_date = '2022-01-01'
+pred_end_date = '2025-02-31'
 scen_size = 10000
 
 # download and prepare data
